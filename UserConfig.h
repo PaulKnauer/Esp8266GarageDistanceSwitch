@@ -1,8 +1,8 @@
 #ifndef UserConfig_h
 #define UserConfig_h
 
-#define WLAN_SSID        "kezro"
-#define WLAN_PASSWORD    "P@ul123D3bbie"
+#define WLAN_SSID        "yourssid"
+#define WLAN_PASSWORD    "yourwifipassword"
 #define DELAY 100
 
 #define MQTT_CLIENT_NAME "GarageDoor1"
